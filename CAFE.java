@@ -15,6 +15,7 @@ public class CAFE {
      */
     public static void main(String[] args) {
         System.out.println("hello");
+        System.out.println("Phuong na");
         // TODO code application logic here
     }
     
